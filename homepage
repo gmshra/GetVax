@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN PAGE</title>
+    <style>
+        .logo{
+    background-color: black;
+}
+.but{
+    float: right;
+    margin: 20px;
+    background-color: rgb(0, 153, 255) ;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 3px 8px;
+    font-weight: bold;
+}
+div a{
+    float: right;
+    margin: 20px ;
+    color: rgb(0, 153, 255);
+    font-weight: bolder;
+    font-size: 25px;
+    padding-right: 10px;
+}
+.mar{
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(0, 153, 255) ;
+}
+    </style>
+</head>
+
+<body>
+    <div class="logo">
+        <img src="l1.png" alt="logo" style="width: 120px; height: 70px;">
+        <img src="l123.jpg" alt="logo" style="width: 200px; height: 70px;">
+        <button type="button" class="but">LOGIN</button>
+        <a href="about.html">ABOUT US</a>
+        <a href="preca.html">PRECAUTIONS</a>
+        <a href="covidinfo.html">COVID INFO</a>
+        <a href="login.html">HOME</a>
+    </div>
+    <marquee behavior="" direction="right" class="mar">WELCOME TO GETVAX.....</marquee>
+    <section class="img1">
+        <div>
+            <img src="v3.jpg" alt=""style="width: 1349px; height: 550px;">
+        </div>
+    </section>
+    <section class="steps">
+        <div>
+
+        </div>
+    </section>
+
+
+</body>
+
+</html>
